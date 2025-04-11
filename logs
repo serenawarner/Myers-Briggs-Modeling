@@ -4,18 +4,42 @@ History of Models:
 without SMOTE:
   Logistic regression:
     Rationals:
+              Accuracy on training set: 0.82
+              Accuracy on test set:     0.78
     Irrationals:
+              Accuracy on training set: 0.82
+              Accuracy on test set:     0.79
     Dominant:
+              Accuracy on training set: 0.78
+              Accuracy on test set:     0.73
     Auxiliary:
+              Accuracy on training set: 0.79
+              Accuracy on test set:     0.72
     Irrational Dominant:
+              Accuracy on training set: 0.82
+              Accuracy on test set:     0.77
     Rational Dominant:
+              Accuracy on training set: 0.83
+              Accuracy on test set:     0.77
   SVM:
     Rationals:
+              Accuracy on training set: 0.84
+              Accuracy on test set:     0.77
     Irrationals:
+              Accuracy on training set: 0.84
+              Accuracy on test set:     0.78
     Dominant:
+              Accuracy on training set: 0.85
+              Accuracy on test set:     0.73
     Auxiliary:
+              Accuracy on training set: 0.85
+              Accuracy on test set:     0.72
     Irrational Dominant:
+              Accuracy on training set: 0.85
+              Accuracy on test set:     0.77
     Rational Dominant:
+              Accuracy on training set: 0.86
+              Accuracy on test set:     0.77
 
 with SMOTE:
   Logistic regression:
