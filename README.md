@@ -1,4 +1,4 @@
-Myers-Briggs Type Indicator Prediction using Jungian Cognitive Functions and Text Input
+## Myers-Briggs Type Indicator Prediction using Jungian Cognitive Functions and Text Input
 
 My Junior I.S. is using SVMs and logistic regression to create prediction models for the MBTI using text input and cognitive function classes, first introduced by John Beebe.
 
